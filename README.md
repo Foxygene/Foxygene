@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 - Hello ! I'm Paco a developper from France arround Paris.
+😄 - Hello ! I'm Paco a developper from France, arround Paris.
 
 🌱 - I'm currently learning front end with an OpenClassRooms cursus. And planning to get a grasp on back end after that.
 
