@@ -11,4 +11,4 @@
 
 📫 - Or send me a mail: foxygene.dev@gmail.com
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dracula&border_radius=10)](https://git.io/streak-stats) 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Foxygene&theme=dracula&border_radius=10)](https://git.io/streak-stats) 
