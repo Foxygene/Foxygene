@@ -7,7 +7,7 @@
 🔭 - Passionate about all kind of art and music. Ex E-sport pro player but still a competitive games enthousiaste.
 
 ### 📫 Contact
-💬 - You can add me on discord: Foxygene#5496
+💬 - You can add me on discord: foxygene
 
 📫 - Or send me a mail: foxygene.dev@gmail.com
 
